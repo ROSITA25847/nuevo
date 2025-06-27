@@ -1,0 +1,7 @@
+flask
+torch
+opencv-python-headless
+Pillow
+pandas
+requests
+seaborn
